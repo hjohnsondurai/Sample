@@ -1,0 +1,25 @@
+{
+	name:"Johnson Durai",
+	age: 21,
+	email: "hjohnsondurai@gmail.com",
+	mobile: "9999997891888888620677777",
+	country: "India",
+	positionHeld: "Software Engineer",
+	skillSet: { 
+		webOriented: ["JavaScript", "jQuery", "HTML & CSS", "Java", "ReactJs"],
+		frameWork: ["Angular 6","Ionic 4 (Hybrid Mobile Application)"],
+		tools: ["Selenium WebDriver (Automation Testing), Tortoise SVN"]
+	},
+	projects:[{
+		no: 1,
+		title: "JewelsConnect",
+		desc: "A hybrid application developed using the Ionic framework. Here we deployed the application for IOS and Android.",
+	},{
+		no: 2,
+		title: "Content Management System",
+		desc: "To develop a dashboard for a client to manage their data at cloud. Here we achieve the data manipiulation by REST Api's they provided"
+	}
+	],
+	curCTC: "1.45 LPA",
+	expectedCTC: "3 - 3.5 LPA"
+}
